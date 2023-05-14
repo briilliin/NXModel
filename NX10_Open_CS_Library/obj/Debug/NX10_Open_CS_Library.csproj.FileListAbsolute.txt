@@ -1,0 +1,44 @@
+c:\users\user\documents\visual studio 2012\Projects\NX10_Open_CS_Library\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+c:\users\user\documents\visual studio 2012\Projects\NX10_Open_CS_Library\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+c:\users\user\documents\visual studio 2012\Projects\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+c:\users\user\documents\visual studio 2012\Projects\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+C:\Users\пользователь\Desktop\Уник\Диплом\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojAssemblyReference.cache
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+C:\Users\Manfred\Desktop\NX10_Open_CS_Library pravki\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojAssemblyReference.cache
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CopyComplete
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+C:\Users\Manfred\Desktop\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+D:\Sample\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+D:\Sample\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+D:\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojAssemblyReference.cache
+D:\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+D:\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CopyComplete
+D:\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+D:\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.dll
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\bin\Debug\NX10_Open_CS_Library.pdb
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csprojAssemblyReference.cache
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CoreCompileInputs.cache
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.csproj.CopyComplete
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.dll
+D:\Sample\Sample\Sample\NX10_Open_CS_Library\obj\Debug\NX10_Open_CS_Library.pdb
